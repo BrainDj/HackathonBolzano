@@ -1,0 +1,2 @@
+# HackathonBolzano
+Hackathon @NOITechPark
