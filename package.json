@@ -1,0 +1,28 @@
+{
+  "name": "hackathonbolzano",
+  "version": "1.0.0",
+  "description": "Hackathon @NOITechPark",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrainDj/HackathonBolzano.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrainDj/HackathonBolzano/issues"
+  },
+  "homepage": "https://github.com/BrainDj/HackathonBolzano#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "child_process": "^1.0.2",
+    "express": "^4.16.4",
+    "localtunnel": "^1.9.1",
+    "node-fetch": "^2.3.0",
+    "robotjs": "^0.5.1"
+  }
+}
